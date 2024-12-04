@@ -7,6 +7,10 @@
 4. StatsLibrary 2
 5. Formula Sheet
 
+## Extra Credit Considerations:
+1. Using RAWG.io, HTTP requests, and Python to access my information in part 2.
+2. The 2D and 3D visualizations in Octave
+3. Documentation
 
 ## Part 1: Sampling, salting, and smoothing 3 ways
 1. Using native Java functions, csv files, and manual excel graphing
