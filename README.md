@@ -13,9 +13,9 @@
 ## Part 2: Video Game Statistics Report
 I created some textbook-inspired questions from a csv file on the 
 top 100 games of each year from 2024 to 2004. I focused heavily on 
-chapter 5 and therefore discrete probability and those distrubtion methods. \n
+chapter 5 and therefore discrete probability and those distrubtion methods. \
 I analyzed the data by considering aspects as discrete random variables.
 
 ## Part 3: Pokemon Game on Phone
-I optimized my game for mobile use using Android Studio, \n
+I optimized my game for mobile use using Android Studio, \
 and I ran it using a virtual machine.
