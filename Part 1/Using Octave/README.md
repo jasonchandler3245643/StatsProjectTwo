@@ -11,6 +11,6 @@ lines plus manually graphing it. I predict using APIs will abbreviate using Java
 it will be nearly as easy as Octave was. \
 \
 \
-I referenced:
+I referenced:\
 https://docs.octave.org/v4.0.0/Two_002dDimensional-Plots.html  \
 https://www.geeksforgeeks.org/octave-basics-of-plotting-data/ 
