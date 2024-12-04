@@ -10,4 +10,4 @@ That all took about 10 lines of code, whereas using Java without an API took clo
 \
 I referenced:
 https://docs.octave.org/v4.0.0/Two_002dDimensional-Plots.html  \
-https://www.geeksforgeeks.org/octave-basics-of-plotting-data/ \
+https://www.geeksforgeeks.org/octave-basics-of-plotting-data/ 
