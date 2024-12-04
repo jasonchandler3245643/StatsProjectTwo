@@ -9,8 +9,9 @@
 
 ## Extra Credit Considerations:
 1. Using RAWG.io, HTTP requests, and Python to access my information in part 2.
-2. The 2D and 3D visualizations in Octave
-3. Documentation
+2. The information I gleaned from the csv file is relevant to the gaming indsutry and its future.
+3. The 2D and 3D visualizations in Octave.
+4. Documentation.
 
 ## Part 1: Sampling, salting, and smoothing 3 ways
 1. Using native Java functions, csv files, and manual excel graphing
