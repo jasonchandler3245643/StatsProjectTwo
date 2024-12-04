@@ -1,0 +1,26 @@
+package com.example.pokemongame2.GAME;
+
+/**
+ * Represents a Clefable Pokemon Card
+ * 
+ * @author Jason Chandler
+ *
+ */
+public class Clefable extends Clefairy {
+	
+	/**
+	 * Constructs a Clefable with its stats
+	 * 
+	 */
+	public Clefable() {
+		
+		setHp(85);
+		setDamage(50);
+		setType(Type.Fairy);
+		setName("Clefable");
+		setStage(2);
+		
+	}
+	
+
+}
