@@ -4,7 +4,7 @@ I made a simple vector for inputs of 0 - 1000. \
 Then, I made another vector by setting it equal to my equation using the simple vector. \
 I salted the data by creating a new vector of the same size filled with random numbers and added it to y. \
 I smoothed the data using Octaves native ____ function. \
-
+\
 Finally, I plotted the original, salted, and 3 runs of smoothing on the same graph. \
 That all took about 10 lines of code, whereas using Java without an API took close to ____. \
 \
