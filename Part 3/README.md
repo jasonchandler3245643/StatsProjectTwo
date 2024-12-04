@@ -12,9 +12,9 @@ send messages much like regular Java. \
 I also made sure to edit some Kotlin projects. I kept my "main" method\ 
 in Java but used Kotlin for formatting and aeshtetics. I used it to \
 differentiate it from my Java console version and get more familiar with \
-Android app programming and another programming language. \ 
+Android app programming and another programming language. \
 \
-## References: \
+## References:
 1. https://developer.android.com/reference/android/widget/Toast
 2. https://developer.android.com/guide/topics/ui/notifiers/toasts
 3. https://developer.android.com/guide/topics/ui/notifiers/toasts
