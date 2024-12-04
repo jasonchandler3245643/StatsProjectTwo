@@ -5,9 +5,9 @@ Then, I made another vector by setting it equal to my equation using the simple 
 I salted the data by creating a new vector of the same size filled with random numbers and added it to y. \
 I smoothed the data using Octaves native ____ function. \
 
-Finally, I plotted the original, salted, and 3 runs of smoothing on the same graph. \ 
-That all took about 10 lines of code, whereas using Java without an API took close to ____.
-
+Finally, I plotted the original, salted, and 3 runs of smoothing on the same graph. \
+That all took about 10 lines of code, whereas using Java without an API took close to ____. \
+\
 I referenced:
 https://docs.octave.org/v4.0.0/Two_002dDimensional-Plots.html  \
 https://www.geeksforgeeks.org/octave-basics-of-plotting-data/ \
