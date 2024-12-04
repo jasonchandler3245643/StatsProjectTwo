@@ -7,8 +7,10 @@ I smoothed the data using Octaves native ____ function. \
 \
 Finally, I plotted the original, salted, and 3 runs of smoothing on the same graph. \
 This took less than 50 lines of code, whereas using Java without an API took close to ____. \
-lines plus manually graphing it.
+lines plus manually graphing it. I predict using APIs will abbreviate using Java, but I doubt \
+it will be nearly as easy as Octave was.
 \
+
 I referenced:
 https://docs.octave.org/v4.0.0/Two_002dDimensional-Plots.html  \
 https://www.geeksforgeeks.org/octave-basics-of-plotting-data/ 
