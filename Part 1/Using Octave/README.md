@@ -2,6 +2,12 @@ Octave plotting, salting, and smoothing was so much simpler than Java. \
 Java was not difficult, but it took a while despite all my experience with it. \
 Octave was really simple to pick up and get right to graping basic functions. 
 
+## Contents: 
+1. BasicOctavePractice: My initial Octave practice program
+2. BasicOctavePracticeOutput: A picture of my initial practice graphs
+3. PlotSaltSmooth: Octave program for plotting, salting, and smoothing
+4. PlotSaltSmoothOutput: A picture of the PlotSaltSmooth graphs.
+
 ## What I learned:
 1. Other languages may be more effective at something
 2. I have the tools to find such languages and learn to use them
