@@ -1,16 +1,14 @@
-I used Octave to accomplish the same goal. \
-It was much easier. Instead of making any methods or objects, \
-I made a simple vector for inputs of 0 - 1000. \
-Then, I made another vector by setting it equal to my equation using the simple vector. \
-I salted the data by creating a new vector of the same size filled with random numbers and added it to y. \
-I smoothed the data using Octaves native ____ function. \
-\
-Finally, I plotted the original, salted, and 3 runs of smoothing on the same graph. \
-This took less than 50 lines of code, whereas using Java without an API took close to ____. \
-lines plus manually graphing it. I predict using APIs will abbreviate using Java, but I doubt \
-it will be nearly as easy as Octave was. \
-\
-\
-I referenced:\
-https://docs.octave.org/v4.0.0/Two_002dDimensional-Plots.html  \
-https://www.geeksforgeeks.org/octave-basics-of-plotting-data/ 
+Octave plotting, salting, and smoothing was so much simpler than Java. \
+Java was not difficult, but it took a while despite all my experience with it. \
+Octave was really simple to pick up and get right to graping basic functions. \
+
+## What I learned:
+1. Other languages may be more effective at something
+2. I have the tools to find such languages and learn to use them
+3. New programming language Octave that I wish I knew of before. It would have helped greatly for some old assignemnts.
+
+## References
+1. https://docs.octave.org/v4.0.0/Two_002dDimensional-Plots.html  
+2. https://www.geeksforgeeks.org/octave-basics-of-plotting-data/
+3. https://docs.octave.org/refcard !!!!
+4. https://docs.octave.org/v9.2.0/Concept-Index.html
