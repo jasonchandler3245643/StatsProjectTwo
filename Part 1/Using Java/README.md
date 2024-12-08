@@ -34,3 +34,6 @@ It uses PrintWriters to write files and BufferedReaders to read them.
    subsequent method call would overwrite the column. It was as if __, which led me to \
    believe the issue was with my file copying. It was: I did not push the temporary file changes \
    to the real one. I fixed this by using Files.copy to redirect the paths.
+
+## Statistical Methods Learned:
+1. Moving average:
