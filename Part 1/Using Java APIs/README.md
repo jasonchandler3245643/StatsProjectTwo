@@ -1,7 +1,12 @@
 # Using Java APIs
 
-I used Java Digital Signal Processing (JDSP) to smooth my data. \
-I used to Apache POI to plot it in excel and graph it.
+The program uses Apache POI to plot and graph in excel, \
+Apache Commons Math for salting and smoothing. The main method \
+can add as many columns as called to the end of the excel file.
+
+# Content:
+1. Java src code
+2. 
 
 ## Graph Examples
 1. f(x) = 10x
