@@ -13,6 +13,11 @@ It uses PrintWriters to write files and BufferedReaders to read them.
 4. CVS Equation Three csv and xlsx
 5. CVS Graph Picture: A screenshot of 3 example graphs
 
+## Parameter Exploration:
+1. f(x) =
+2. f(x) =
+3. f(x) =
+
 ## Key takeaways:
 
 ## References: 
@@ -21,7 +26,6 @@ It uses PrintWriters to write files and BufferedReaders to read them.
 3. https://www.geeksforgeeks.org/file-class-in-java/
 4. https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html
 5. https://www.digitalocean.com/community/tutorials/java-files-nio-files-class (Files .copy and .delete)
-
 
 
 ## Road Blocks:
