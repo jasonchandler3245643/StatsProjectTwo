@@ -6,7 +6,7 @@ can add as many columns as called to the end of the excel file.
 
 # Content:
 1. Java src code
-2. 
+2. pom.xml
 
 ## Graph Examples
 1. f(x) = 10x
