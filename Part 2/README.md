@@ -12,3 +12,4 @@ References (Python refersher and using the API):
 3. https://api.rawg.io/docs/
 4. https://rawgthedocs.orels.sh/api/
 5. https://docs.python.org/3/tutorial/index.html
+6. https://stackoverflow.com/questions/72044883/loop-through-urls-to-pull-data-from-api-python !!
