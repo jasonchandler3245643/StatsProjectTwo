@@ -2,8 +2,8 @@
 
 ## Parts:
 1. Part 1: Plotting, salting, smoothing 3 ways.
-2. Part 2:Video Game Statistics Report 
-3. Part 3:My Pokemon game phone
+2. Part 2: Video Game Statistics Report 
+3. Part 3: My Pokemon game phone
 4. StatsLibrary 2
 5. Formula Sheet
 
