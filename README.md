@@ -9,9 +9,18 @@
 
 ## Extra Credit Considerations:
 1. Using RAWG.io, HTTP requests, and Python to access my information in part 2.
+   This took a long time, as I have very little previous experience with Python and \
+   was unfamiliar with using a datbase such as Rawg. It was difficult, but \
+   I feel like a much stronger programmer and know I can use this and other \
+   APIs, languages, etc to accomplish tasks.\
 2. The information I gleaned from the csv file is relevant to the gaming indsutry and its future.
-3. The 2D and 3D visualizations in Octave.
-4. Documentation.
+   I feel like the information I got could me useful in a busines setting. \
+   I made an effort to pick something with applications.\
+3. My methods to add columns in Part 1 PSS Java with and without API
+   They infinetly update, allowing for as many columns as needed if not reset.
+   Running the main method multiple times without resetting keeps previous information for future runs.\
+4. The 2D and 3D visualizations in Part 1 Octave.
+5. Documentation / Organization.
 
 ## Part 1: Sampling, salting, and smoothing 3 ways
 1. Using native Java functions, csv files, and manual excel graphing
@@ -19,14 +28,12 @@
 3. Using a Java APIs (JDSP and Apache POI)
 
 ## Part 2: Video Game Statistics Report
-I created some textbook-inspired questions from a csv file on the 
-top 100 games of each year from 2024 to 2004. I focused heavily on 
-chapter 5 and therefore discrete probability and those distrubtion methods. \
-I analyzed the data by considering aspects as discrete random variables.
+My Video Game Statstics Report \
+The retreival and analysis of a csv file \
+containing the 40 most popular games 2024 - 2004
 
 ## Part 3: Pokemon Game on Phone
-I optimized my game for mobile use using Android Studio, \
-and I ran it using a virtual machine.
+I ran my Pokemon game on my iPhone using jDoodle.
 
 ## StatsLibrary 2
 Java programs of relevant formulas from the second hald of the semester. \
