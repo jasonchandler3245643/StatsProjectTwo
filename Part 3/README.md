@@ -16,6 +16,5 @@ tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s \
 \
 
 ## References:
-1. https://developer.android.com/reference/android/widget/Toast
-2. https://developer.android.com/guide/topics/ui/notifiers/toasts
-3. https://developer.android.com/guide/topics/ui/notifiers/toasts
+1. https://developer.android.com/studio/run/emulator-acceleration#hypervisors
+2. 
