@@ -1,7 +1,7 @@
 # Video Game Data Report
 
 ## Contents:
-1. Video Game Statistics Report.pdf: My report
+1. Video Game Statistics Report.pdf: My report !!
 2. Video Game Questions.pdf: My sample questions
 3. video game data.csv: The csv file of my data set
 4. getDataPlease.py: The Python script I used to obtain
