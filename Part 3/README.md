@@ -8,7 +8,7 @@ a bunch in the SDK manager. \
 \
 I ran a Hello World app (on beautiful VM):
 ![image](https://github.com/user-attachments/assets/e13ae8d2-c458-44ce-9a13-f5ded2e35a15) \
-tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s
+tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s \
 \
 
 ## References:
