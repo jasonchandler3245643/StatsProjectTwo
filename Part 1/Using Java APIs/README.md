@@ -9,6 +9,7 @@ can add as many columns as called to the end of the excel file.
 2. pom.xml
 
 ## Graph Examples
+Each has a graph with Guissan salt and Normal salt \
 1. f(x) = 10x
    
  ![Linear Guissan](https://github.com/user-attachments/assets/d8298e9a-0692-4650-8d47-344dc11f0291)
