@@ -6,7 +6,8 @@ I downloaded and set up Android Studio and the VM.
 I had to enable hypervision in my PC's BIOS. Then, I had to download and redownload a bunch in the SDK manager. \
 \
 I ran a Hello World app (on beautiful VM):
-![image](https://github.com/user-attachments/assets/e13ae8d2-c458-44ce-9a13-f5ded2e35a15) \
+![image](https://github.com/user-attachments/assets/b48a2365-4315-4bea-a04c-b80face7069c)
+ \
 tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s \
 \
 
