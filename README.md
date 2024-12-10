@@ -21,11 +21,11 @@
 3. The Java program I made alongside my report and its sample questions \
    I made sure all the percentages and counts used in my data were accurate \
    and tested 
-5. My methods to add columns in Part 1 PSS Java with and without API
-   They infinetly update, allowing for as many columns as needed if not reset.
+5. My methods to add columns in Part 1 PSS Java with and without API \
+   They infinetly update, allowing for as many columns as needed if not reset. \
    Running the main method multiple times without resetting keeps previous information for future runs.\
-6. The 2D and 3D visualizations in Part 1 Octave.
-7. Documentation / Organization.
+6. The 2D and 3D visualizations in Part 1 Octave. 
+7. Documentation / Organization. \
    My Java files are all javadoc'd, and I organized my project and its components well.
 
 ## Part 1: Sampling, salting, and smoothing 3 ways
