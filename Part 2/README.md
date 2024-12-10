@@ -1,9 +1,12 @@
 # Video Game Data Report
 
 ## Contents:
-1. The report
-2. The csv file of data on video games
-3. The python script to obtain the csv file
+1. Video Game Statistics Report.pdf: My report
+2. video game data.csv: The csv file of my data set
+3. getDataPlease.py: The Python script I used to obtain
+4. Video Game Stats Report Excel.xlsx: The Excel file used to visualize
+
+## Key takeaways:
 
 RAWG.io database: https://rawg.io/apidocs \
 References (Python refersher and using the API): 
