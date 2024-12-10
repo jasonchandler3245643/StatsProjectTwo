@@ -1,12 +1,12 @@
 # Using Java APIs
 
 The program uses Apache POI to plot and graph in excel, \
-Apache Commons Math for salting and smoothing. The main method \
-can add as many columns as called to the end of the excel file.
+Apache Commons Math for salting and smoothing.
 
 # Content:
 1. Java src code
 2. pom.xml
+3. The Excels: folder with all 6 excel files
 
 ## Graph Examples
 Each has a graph with Guissan salt and Normal salt \
