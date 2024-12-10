@@ -7,7 +7,11 @@ I had to enable hypervision in my PC's BIOS. Then, I had to download and redownl
 \
 I ran a Hello World app (on beautiful VM):
 ![image](https://github.com/user-attachments/assets/b48a2365-4315-4bea-a04c-b80face7069c)
- \
+\
+Got input (I had to anchor it visually by dragging it to the edge): \
+![image](https://github.com/user-attachments/assets/fe45fbd3-c446-4859-9fdc-5bd547e227ed)\
+\
+
 tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s \
 \
 
