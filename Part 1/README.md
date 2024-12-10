@@ -4,4 +4,4 @@
 2. Using Octave
 3. Using Java APIs
 
-Each graph the same couple of equations multiple times.
+The graphs for each are in their READMEs
