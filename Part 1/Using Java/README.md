@@ -24,6 +24,8 @@ It uses PrintWriters to write files and BufferedReaders to read them.
 
 
 ## Key takeaways:
+1. APIs can make life easier
+2. csv files are important to read and use
 
 ## References: 
 1. https://www.geeksforgeeks.org/java-io-printwriter-class-java-set-1/
