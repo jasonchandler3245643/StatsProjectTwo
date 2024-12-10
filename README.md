@@ -25,7 +25,7 @@
 5. My methods to add columns in Part 1 PSS Java with and without API \
    They infinetly update, allowing for as many columns as needed if not reset. \
    Running the main method multiple times without resetting keeps previous information for future runs.
-6. The 2D and 3D visualizations in Part 1 Octave.
+6. My 3D visualizations in Part 1 Octave.
 7. I taught myself some basic Maven and dependencies information for my APIs in part 1. \
     I graphed my data in Project 1 and added the jars manually just to still get an error \
    in my final output. I avoided that at all costs here by swapping to Maven.
