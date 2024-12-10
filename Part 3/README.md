@@ -15,7 +15,8 @@ I ran a Hello World app (on beautiful VM):
 ![image](https://github.com/user-attachments/assets/b48a2365-4315-4bea-a04c-b80face7069c)
 \
 Got input (I had to anchor it visually by dragging it to the edge): \
-![image](https://github.com/user-attachments/assets/fe45fbd3-c446-4859-9fdc-5bd547e227ed)\
+![image](https://github.com/user-attachments/assets/d8b16012-f801-47f0-a10e-687abfcc66e9)
+
 \
 
 tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s \
