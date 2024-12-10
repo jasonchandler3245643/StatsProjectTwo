@@ -23,7 +23,7 @@
    and tested 
 5. My methods to add columns in Part 1 PSS Java with and without API \
    They infinetly update, allowing for as many columns as needed if not reset. \
-   Running the main method multiple times without resetting keeps previous information for future runs.\
+   Running the main method multiple times without resetting keeps previous information for future runs.
 6. The 2D and 3D visualizations in Part 1 Octave. 
 7. Documentation / Organization. \
    My Java files are all javadoc'd, and I organized my project and its components well.
