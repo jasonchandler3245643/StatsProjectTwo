@@ -27,7 +27,7 @@ Each has a graph with Guissan salt and then Normal salt \
  Both are accessed using Apache RandomDataGenerator and generate random numbers \ 
  from a lower to upper bound. However, the distribution of these numbers are not the same: \
  Guissan salt values are follow a bell curve, whereas normal follows normal distribution. \
- Above, the Guissan are first and the Normal are second. \ Based on those graphs, \
+ Above, the Guissan are first and the Normal are second. Based on those graphs, \
  I conclude that Guissan salt messes up the data more, as if clearly has jags spiking out 
  of its graphs, especially in the center of Equation 2.
 
