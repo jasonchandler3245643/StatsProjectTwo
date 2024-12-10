@@ -9,7 +9,7 @@ Apache Commons Math for salting and smoothing.
 3. The Excels: folder with all 6 excel files
 
 ## Graph Examples
-Each has a graph with Guissan salt and Normal salt \
+Each has a graph with Guissan salt and then Normal salt \
 1. f(x) = 10x
    
  ![Linear Guissan](https://github.com/user-attachments/assets/d8298e9a-0692-4650-8d47-344dc11f0291)
@@ -22,6 +22,12 @@ Each has a graph with Guissan salt and Normal salt \
 4. f(x) = 3x^3 - 3x
 ![Cubic Guissan](https://github.com/user-attachments/assets/fab963c2-de91-4222-bcc3-5c35cc063b88)
 ![Cubic Uniform](https://github.com/user-attachments/assets/9adbf9d3-9f10-4ece-a7c5-b0a6f511575d)
+
+## Normal vs Guissan salt: 
+ Both are accessed using Apache RandomDataGenerator and generate random numbers \ 
+ from a lower to upper bound. However, the distribution of these numbers are not the same: \
+ Guissan salt values are follow a bell curve, whereas normal follows normal distribution. \
+ Above, the Guissan are first and the Normal are second. \
 
 ## References:
 1. 
