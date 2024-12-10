@@ -8,6 +8,20 @@ Octave was really simple to pick up and get right to graping basic functions.
 3. PlotSaltSmooth: Octave program for plotting, salting, and smoothing
 4. PlotSaltSmoothOutput: A picture of the PlotSaltSmooth graphs.
 
+## Graph Screenshots
+1. PSS 2D: \
+![image](https://github.com/user-attachments/assets/6c64389b-fc71-48b2-94ca-c7ff346ebb83) \
+
+2. Normal 3D surf: \
+![image](https://github.com/user-attachments/assets/a3c00045-a241-4058-bbba-935930539d44) \
+
+3. PSS 3D # 1: \
+![image](https://github.com/user-attachments/assets/0bcb73f4-d9ed-47a5-9f01-622978f1575a) \
+
+4. PSS 3D #2: \
+![image](https://github.com/user-attachments/assets/4a5fde93-38b2-4736-9550-6758ce5681af) \
+
+   
 ## What I learned:
 1. Other languages may be more effective at something
 2. I have the tools to find such languages and learn to use them
