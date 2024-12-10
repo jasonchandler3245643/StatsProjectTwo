@@ -11,7 +11,7 @@
 1. Using RAWG.io, HTTP requests, and Python to access my information in part 2. \
    This took a long time, as I have very little previous experience with Python and \
    was unfamiliar with using a datbase such as RAWG. It was difficult, but \
-   I feel like a much stronger programmer and know I can use this and other. 
+   I feel like a much stronger programmer and know I can use this and other.  \
    APIs, languages, etc to accomplish tasks. Working with the file that \
    took so long to get was rewarding.
 3. The relevance of the data I obtained and analyzed \
