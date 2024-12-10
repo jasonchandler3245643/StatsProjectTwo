@@ -2,7 +2,7 @@
 I ran my Pokemon game code on my iPhone using jDoodle IDE. I just uploaded the \
 copy and pasted the java files onto the online IDE and got rid of all "public" in public methods. \
 The code ran as expected multiple times: \
-
+\
 \
 I downloaded and set up Android Studio and the VM.
 I had to enable hypervision in my PC's BIOS. Then, I had to download and redownload a bunch in the SDK manager. \
@@ -19,7 +19,7 @@ Got input (I had to anchor it visually by dragging it to the edge): \
 
 
 
-tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s \
+tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s 
 
 
 ## References:
