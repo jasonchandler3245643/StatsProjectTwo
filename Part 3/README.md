@@ -17,11 +17,11 @@ I ran a Hello World app (on beautiful VM):
 Got input (I had to anchor it visually by dragging it to the edge): \
 ![image](https://github.com/user-attachments/assets/d8b16012-f801-47f0-a10e-687abfcc66e9)
 
-\
+
 
 tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s \
-\
+
 
 ## References:
 1. https://developer.android.com/studio/run/emulator-acceleration#hypervisors
-2. 
+2. https://www.youtube.com/watch?v=PGT6-HCh1f4&pp=ygUVI2pkb29kbGVvbmxpbmV3ZWJzaXRl 
