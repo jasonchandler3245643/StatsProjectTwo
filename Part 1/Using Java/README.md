@@ -11,12 +11,11 @@ It uses PrintWriters to write files and BufferedReaders to read them.
 2. CVS Equation One csv and xlsx
 3. CVS Equation Two csv and xlsx
 4. CVS Equation Three csv and xlsx
-5. CVS Graph Picture: A screenshot of 3 example graphs
 
 ## Parameter Exploration:
-1. f(x) =
-2. f(x) =
-3. f(x) =
+1. Equation 1: f(x) = x^2 - 100x
+2. Equation 2: f(x) = x
+3. Equation 3: f(x) = 3x^3 - 3x
 
 ## Key takeaways:
 
@@ -35,9 +34,7 @@ It uses PrintWriters to write files and BufferedReaders to read them.
    values using a PrintWriter, but I found that I could not do that in the same CSV file. \
    This led me to make a temportary csv file to work with inside my method, which allowed me \
    to append a single row. However, I struggled to then append additional rows, as each\
-   subsequent method call would overwrite the column. It was as if __, which led me to \
-   believe the issue was with my file copying. It was: I did not push the temporary file changes \
+   subsequent method call would overwrite the column. I did not push the temporary file changes \
    to the real one. I fixed this by using Files.copy to redirect the paths.
 
-## Statistical Methods Learned:
-1. Moving average:
+
