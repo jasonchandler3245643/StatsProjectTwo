@@ -15,10 +15,10 @@ It uses PrintWriters to write files and BufferedReaders to read them.
 ## Parameter Exploration:
 1. Equation 1: f(x) = x^2 - 100x \
    ![image](https://github.com/user-attachments/assets/8d887b9f-c946-4a6f-bbd6-666f24dbd0c6) \
-\
+
 2. Equation 2: f(x) = x \
    ![image](https://github.com/user-attachments/assets/8cf2a6bd-5b75-492d-895f-0eaca29afb87) \
-\
+
 3. Equation 3: f(x) = 3x^3 - 3x \
    ![image](https://github.com/user-attachments/assets/845bf390-7643-497b-a9b1-94f757a269ea)
 
