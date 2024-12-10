@@ -13,7 +13,7 @@
    was unfamiliar with using a datbase such as RAWG. It was difficult, but \
    I feel like a much stronger programmer and know I can use this and other.  \
    APIs, languages, etc to accomplish tasks. Working with the file that \
-   took so long to get was rewarding.
+   took so long to get was rewarding. I put a lot of effort into Part 2.
 2. The relevance of the data I obtained and analyzed \
    I made a conscious effort to get information that both interests me \
    and that could be useful in a theoretical business setting. \
@@ -28,8 +28,9 @@
 5. My 3D visualizations in Part 1 Octave.
 6. I taught myself some basic Maven and dependencies information for my APIs in part 1. \
     I graphed my data in Project 1 and added the jars manually just to still get an error \
-   in my final output. I avoided that at all costs here by swapping to Maven.
-7. Documentation / Organization. \
+   in my final output. I avoided that at all costs here by swapping to Maven. \
+7. The green bars from my junit tester in StatsLibrary \
+8. Documentation / Organization. \
    My Java files are all javadoc'd, and I organized my project and its components well.
 
 ## Part 1: Sampling, salting, and smoothing 3 ways
