@@ -24,4 +24,5 @@ tutorial reference: https://www.youtube.com/watch?v=J9uahzEYg8s
 
 ## References:
 1. https://developer.android.com/studio/run/emulator-acceleration#hypervisors
-2. https://www.youtube.com/watch?v=PGT6-HCh1f4&pp=ygUVI2pkb29kbGVvbmxpbmV3ZWJzaXRl 
+2. https://www.youtube.com/watch?v=PGT6-HCh1f4&pp=ygUVI2pkb29kbGVvbmxpbmV3ZWJzaXRl
+3. https://www.geeksforgeeks.org/java-for-android-building-your-first-android-app/
